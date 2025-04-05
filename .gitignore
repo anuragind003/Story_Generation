@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+memory/db/ # Exclude database files if needed

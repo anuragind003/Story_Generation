@@ -1,0 +1,428 @@
+{
+  "Captain Lara Vance": {
+    "name": "Captain Lara Vance",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: Commander of the expedition, an experienced and charismatic leader.. Motivation: Driven by a desire to make history and secure her legacy among the stars."
+      }
+    ]
+  },
+  "Dr. Eli Turner": {
+    "name": "Dr. Eli Turner",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: The team's archaeologist, specializing in alien cultures.. Motivation: Seeks to understand the universe and prove his theories about interstellar civilizations."
+      }
+    ]
+  },
+  "Engineer Maya Lopez": {
+    "name": "Engineer Maya Lopez",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A brilliant engineer with a knack for alien technology.. Motivation: Wants to push the boundaries of human technology and find her place in history."
+      }
+    ]
+  },
+  "Security Officer Raj Patel": {
+    "name": "Security Officer Raj Patel",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A former military man tasked with the safety of the team.. Motivation: Motivated by duty and the protection of his team at all costs."
+      }
+    ]
+  },
+  "Dr. Lena Hart": {
+    "name": "Dr. Lena Hart",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A brilliant but overlooked astrobiologist, driven by a desire to make a monumental discovery.. Motivation: Proving her theories about extraterrestrial life and securing her place in scientific history."
+      }
+    ]
+  },
+  "Captain Alex Reed": {
+    "name": "Captain Alex Reed",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: The mission commander, a seasoned astronaut with a military background.. Motivation: Ensuring the safety of his crew and the success of the mission."
+      },
+      {
+        "episode": 0,
+        "change": "Description: The determined leader of the exploration team, with a background in astrophysics and military strategy.. Motivation: Driven by the desire to make groundbreaking discoveries that could benefit humanity."
+      },
+      {
+        "episode": 0,
+        "change": "Description: The determined leader of the exploratory team, with a personal connection to the moon.. Motivation: To prove their deceased parent's theories about alien life were true."
+      }
+    ]
+  },
+  "Marco Silva": {
+    "name": "Marco Silva",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A young and enthusiastic technology specialist, fascinated by alien technologies.. Motivation: His curiosity and desire to understand the unknown."
+      },
+      {
+        "episode": 0,
+        "change": "Description: A skilled pilot and mechanic with a knack for getting out of tight spots.. Motivation: Seeks adventure and the thrill of the unknown."
+      }
+    ]
+  },
+  "Dr. Emily Chang": {
+    "name": "Dr. Emily Chang",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A linguist and communications expert, specializing in deciphering unknown languages.. Motivation: The challenge of unlocking the secrets of the artifact."
+      }
+    ]
+  },
+  "Dr. Lena Zhou": {
+    "name": "Dr. Lena Zhou",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A brilliant engineer and artifact specialist, known for her innovative solutions to complex problems.. Motivation: Wants to understand the technology behind the artifact to advance human technology."
+      },
+      {
+        "episode": 0,
+        "change": "Description: A brilliant but reclusive linguist and cryptologist, specialized in ancient languages.. Motivation: To decipher the artifact and gain academic renown."
+      }
+    ]
+  },
+  "Eva Martinez": {
+    "name": "Eva Martinez",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: The team's biologist and medical officer, who is deeply empathetic and cautious.. Motivation: Hopes to find alien life forms and understand their ecosystems."
+      }
+    ]
+  },
+  "Miles O'Connell": {
+    "name": "Miles O'Connell",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A savvy ex-military pilot with a knack for getting in and out of trouble.. Motivation: Seeking adventure and a big payout."
+      }
+    ]
+  },
+  "Sara Kim": {
+    "name": "Sara Kim",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A tech genius and engineer, enthusiastic and curious about alien technologies.. Motivation: To understand and replicate alien technology."
+      }
+    ]
+  },
+  "Dr. Lena Halberg": {
+    "name": "Dr. Lena Halberg",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A brilliant but headstrong astrobiologist.. Motivation: To prove her controversial theories about alien life."
+      }
+    ]
+  },
+  "Captain Marcus Reed": {
+    "name": "Captain Marcus Reed",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A seasoned yet cynical space explorer.. Motivation: To lead his team to safety and success, despite personal doubts."
+      }
+    ]
+  },
+  "Eli Voss": {
+    "name": "Eli Voss",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A tech genius with a quirky sense of humor.. Motivation: To decipher the alien technology and make a groundbreaking discovery."
+      }
+    ]
+  },
+  "Nova T'lan": {
+    "name": "Nova T'lan",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A mysterious alien survivor found in stasis.. Motivation: To preserve her culture and protect the secrets of her people."
+      }
+    ]
+  },
+  "DR. ELI TURNER": {
+    "name": "DR. ELI TURNER",
+    "first_appearance": 1,
+    "state_history": [
+      {
+        "episode": 1,
+        "change": "Discovered the source of the energy pulse and led the team into the alien structure."
+      },
+      {
+        "episode": 1,
+        "change": "Identifying strongest energy readings to the northeast"
+      }
+    ]
+  },
+  "ENGINEER MAYA LOPEZ": {
+    "name": "ENGINEER MAYA LOPEZ",
+    "first_appearance": 1,
+    "state_history": [
+      {
+        "episode": 1,
+        "change": "Successfully interfaced with the alien artifact's control panel, revealing a star map and potential network of artifacts."
+      }
+    ]
+  },
+  "CAPTAIN LARA VANCE": {
+    "name": "CAPTAIN LARA VANCE",
+    "first_appearance": 1,
+    "state_history": [
+      {
+        "episode": 1,
+        "change": "Acknowledged the significance of the team's discovery and emphasized the need for caution and documentation."
+      },
+      {
+        "episode": 1,
+        "change": "Leading the team to make history"
+      },
+      {
+        "episode": 1,
+        "change": "Mission commander overseeing the operation"
+      }
+    ]
+  },
+  "CAPTAIN ALEX REED": {
+    "name": "CAPTAIN ALEX REED",
+    "first_appearance": 1,
+    "state_history": [
+      {
+        "episode": 1,
+        "change": "Expressed concern over the potential dangers of the artifact and emphasized the importance of proceeding carefully."
+      }
+    ]
+  },
+  "Theo": {
+    "name": "Theo",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A diligent but inexperienced apprentice wizard, eager to prove himself.. Motivation: Desires to become a renowned wizard and make a positive impact in the magical community."
+      }
+    ]
+  },
+  "Loki": {
+    "name": "Loki",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A mischievous, centuries-old demon with a knack for trouble and giving questionable advice.. Motivation: Seeks amusement and freedom from the monotony of the demon world."
+      }
+    ]
+  },
+  "Mara": {
+    "name": "Mara",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A fellow apprentice and Theo's best friend, who is skeptical of Loki but loyal to Theo.. Motivation: Wants to help Theo navigate the challenges of wizardry and life."
+      }
+    ]
+  },
+  "THEO": {
+    "name": "THEO",
+    "first_appearance": 1,
+    "state_history": [
+      {
+        "episode": 1,
+        "change": "Summoned Loki accidentally, forming an uneasy alliance with the demon."
+      }
+    ]
+  },
+  "LOKI": {
+    "name": "LOKI",
+    "first_appearance": 1,
+    "state_history": [
+      {
+        "episode": 1,
+        "change": "Arrived in the human world due to Theo's summoning, forming an alliance with Theo."
+      }
+    ]
+  },
+  "Alex": {
+    "name": "Alex",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: Older sibling, pragmatic and somewhat skeptical of the supernatural. A history teacher by profession.. Motivation: Initially seeks to sell the house and move on, but becomes deeply involved in unraveling the family's history."
+      },
+      {
+        "episode": 1,
+        "change": "Embarked on a treasure hunt with Casey after discovering a letter from their grandmother."
+      }
+    ]
+  },
+  "Casey": {
+    "name": "Casey",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: Younger sibling, more open to the mysteries of the house and the stories it holds. An artist with a penchant for the whimsical.. Motivation: Driven by a deep sense of connection to their grandmother and a longing to understand her better."
+      },
+      {
+        "episode": 1,
+        "change": "Engaged in a treasure hunt with Alex, showing excitement and curiosity."
+      }
+    ]
+  },
+  "Dr. Lena Halstrom": {
+    "name": "Dr. Lena Halstrom",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A brilliant but disillusioned astro-archaeologist.. Motivation: Seeks to prove her theories about interstellar civilizations and find a purpose."
+      }
+    ]
+  },
+  "Captain Mark Serrano": {
+    "name": "Captain Mark Serrano",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A seasoned pilot with a mysterious past.. Motivation: Desires to leave his mark on history and protect his crew."
+      }
+    ]
+  },
+  "Unknown": {
+    "name": "Unknown",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: . Motivation: "
+      }
+    ]
+  },
+  "Eli Vance": {
+    "name": "Eli Vance",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A skeptical engineer who questions everything.. Motivation: Wants to debunk myths and prove the superiority of human ingenuity."
+      }
+    ]
+  },
+  "Captain Elena Reyes": {
+    "name": "Captain Elena Reyes",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: The determined leader of the exploration team, with a background in both military and scientific expeditions.. Motivation: Driven by a desire to make groundbreaking discoveries that can benefit humanity."
+      }
+    ]
+  },
+  "Dr. Liam Singh": {
+    "name": "Dr. Liam Singh",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A brilliant but eccentric xenobiologist who believes that studying alien life forms can solve Earth's ecological crises.. Motivation: Seeks validation and respect from the scientific community."
+      }
+    ]
+  },
+  "Tara Chen": {
+    "name": "Tara Chen",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A skilled engineer and tech specialist, responsible for the maintenance and operation of the team's equipment.. Motivation: Wants to prove her worth beyond her technical skills, seeking adventure and a deeper purpose."
+      }
+    ]
+  },
+  "Marcus Flint": {
+    "name": "Marcus Flint",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A former space pirate turned security officer, providing muscle and protection for the team.. Motivation: Seeks redemption for his past crimes and a new path in life."
+      }
+    ]
+  },
+  "Dr. Elena Vance": {
+    "name": "Dr. Elena Vance",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A brilliant but disillusioned astrophysicist and the team's leader.. Motivation: Seeks redemption for a past mistake through this discovery."
+      }
+    ]
+  },
+  "Cmdr. Alex Renn": {
+    "name": "Cmdr. Alex Renn",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A seasoned astronaut and the mission's pilot, skeptical of what they'll find.. Motivation: Driven by duty and the thrill of exploration."
+      }
+    ]
+  },
+  "Dr. Liam Park": {
+    "name": "Dr. Liam Park",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: A young, enthusiastic xenobiologist, eager to prove his theories about alien life.. Motivation: Desires to make a groundbreaking discovery."
+      }
+    ]
+  },
+  "Tara Singh": {
+    "name": "Tara Singh",
+    "first_appearance": 0,
+    "state_history": [
+      {
+        "episode": 0,
+        "change": "Description: The team's engineer, specializing in alien technologies.. Motivation: Wants to unlock the secrets of the universe to benefit humanity."
+      }
+    ]
+  }
+}

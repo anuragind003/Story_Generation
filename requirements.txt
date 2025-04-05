@@ -1,0 +1,11 @@
+# requirements.txt
+
+openai >= 1.5.0 # Ensure version supports JSON mode well
+streamlit
+python-dotenv
+langchain
+langchain-openai
+chromadb # Vector Store
+tiktoken
+lark # Needed by some Langchain text splitters
+langchain-community # For text splitters etc.
