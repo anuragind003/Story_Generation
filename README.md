@@ -1,6 +1,6 @@
-# AI Story Pipeline
+# Story Generation
 
-The **AI Story Pipeline** is a tool for generating episodic stories powered by AI. It allows users to create story plans, generate episodes, and manage characters and plot points with continuous context across episodes.
+The **Story Generation** is a tool for generating episodic stories powered by AI. It allows users to create story plans, generate episodes, and manage characters and plot points with continuous context across episodes.
 
 ## Features
 
@@ -42,7 +42,7 @@ ai_story_pipeline/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anuragind003/Story_Generation.git
    cd ai_story_pipeline
    ```
 
@@ -96,6 +96,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-
-- Built with ❤️ by the team at KUKU_FM.
 - Powered by OpenAI and Streamlit.
